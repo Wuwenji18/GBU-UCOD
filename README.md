@@ -47,7 +47,7 @@ The **[GBU-UCOD]** dataset is hosted on Baidu Netdisk. Access to the dataset is 
    * Fill in your information. **A signature from your Principal Investigator (PI) is required.**
 
 3. **Request Password**:
-   * Send the signed agreement (scanned PDF) to **[your_email@example.com]**.
+   * Send the signed agreement (scanned PDF) to **wuwenji@hrbeu.edu.cn**.
    * Please use the email subject: **"Application for [GBU UCOD] - [Your Institution]"**.
 
 4. **Get Access**:
