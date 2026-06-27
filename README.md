@@ -80,12 +80,45 @@ This project is released under the **MIT License** for the code and **CC BY-NC 4
 
 ## ✒️ Citation
 
-If you find our code or dataset useful for your research, please consider citing our paper:
+If you find our code or dataset useful for your research, please consider citing our paper. In addition, you can also read and cite our other creative work.
 
 ```bibtex
-@article{yourname2026concept,
-  title={High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks},
-  author={Lastname, Firstname and Lastname, Firstname},
-  journal={arXiv preprint arXiv:2601.xxxxx},
-  year={2026}
+@misc{wu2026highresolutionunderwatercamouflagedobject,
+      title={High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks}, 
+      author={Wenji Wu and Shuo Ye and Yiyu Liu and Jiguang He and Zhuo Wang and Zitong Yu},
+      year={2026},
+      eprint={2602.03591},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.03591}, 
+}
+
+@misc{liu2026yuv20kcomplexitydrivenbenchmarktrajectoryaware,
+      title={YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection}, 
+      author={Yiyu Liu and Shuo Ye and Chao Hao and Zitong Yu},
+      year={2026},
+      eprint={2604.09985},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.09985}, 
+}
+
+@misc{hao2024simpleeffectivenetworkbased,
+      title={A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection}, 
+      author={Chao Hao and Zitong Yu and Xin Liu and Jun Xu and Huanjing Yue and Jingyu Yang},
+      year={2024},
+      eprint={2402.18922},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2402.18922}, 
+}
+
+@misc{hao2025distributionspecificlearningjointsalient,
+      title={Distribution-Specific Learning for Joint Salient and Camouflaged Object Detection}, 
+      author={Chao Hao and Zitong Yu and Xin Liu and Yuhao Wang and Weicheng Xie and Jingang Shi and Huanjing Yue and Jingyu Yang},
+      year={2025},
+      eprint={2508.06063},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.06063}, 
 }
