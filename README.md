@@ -40,8 +40,7 @@ The **[GBU-UCOD]** dataset is hosted on Baidu Netdisk.
 
 ### 📥 How to Access
 1. **Download the Data**: Download the encrypted dataset file from Baidu Netdisk and Google Drive.
-   * **Baidu Netdisk Link**: https://pan.baidu.com/s/1scU8JEguoFBvQ7-eoYAavQ
-   * **Password**: WWJX
+   * **Baidu Netdisk Link**: https://pan.baidu.com/s/1scU8JEguoFBvQ7-eoYAavQ  **Password**: WWJX
 
    * **Google Drive Link**: https://drive.google.com/file/d/1vgZFuMx_svfpfyJRSi9ritGB_F54yWyf/view?usp=sharing
 
