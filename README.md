@@ -7,7 +7,10 @@
 ---
 
 ## 📣 News
+* **[2026-07]** Our paper was accepted！🎉🎉🎉
 * **[2026-02]** Code and Dataset labels are released.
+
+
 
 ---
 
