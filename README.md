@@ -36,28 +36,14 @@ resolution (2K) benchmark tailored for marine vertical zonation, filling the dat
 
 ## 📂 Dataset
 
-The **[GBU-UCOD]** dataset is hosted on Baidu Netdisk. Access to the dataset is granted upon request for academic research purposes only.
+The **[GBU-UCOD]** dataset is hosted on Baidu Netdisk.
 
 ### 📥 How to Access
 1. **Download the Data**: Download the encrypted dataset file from Baidu Netdisk and Google Drive.
-   * **Baidu Netdisk Link**: [https://pan.baidu.com/s/1scU8JEguoFBvQ7-eoYAavQ]
-   * **Password**: [****]
-   *(Note: We will release it as soon as the paper is accepted.)*
+   * **Baidu Netdisk Link**: https://pan.baidu.com/s/1scU8JEguoFBvQ7-eoYAavQ
+   * **Password**: WWJX
 
-   * **Google Drive Link**: [****]
-   *(Note: We will send it to your e-mail after we recived your Agreement)*
-
-2. **Sign the Agreement**:
-
-   * Download the [End User License Agreement for GBU UCOD Dataset.pdf](https://github.com/user-attachments/files/25032343/End.User.License.Agreement.for.GBU.UCOD.Dataset.pdf).
-   * Fill in your information. **A signature from your Principal Investigator (PI) is required.**
-
-3. **Request Password**:
-   * Send the signed agreement (scanned PDF) to **wuwenji@hrbeu.edu.cn**.
-   * Please use the email subject: **"Application for [GBU UCOD] - [Your Institution]"**.
-
-4. **Get Access**:
-   * We will verify your request and reply with the **unzip password** or **Google Drive link** within 3-5 working days.
+   * **Google Drive Link**: https://drive.google.com/file/d/1vgZFuMx_svfpfyJRSi9ritGB_F54yWyf/view?usp=sharing
 
 
 ### 🏗️ Structure
