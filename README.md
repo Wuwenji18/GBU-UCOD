@@ -1,5 +1,5 @@
 # [High-Resolution Underwater Camouflaged Object Detection:GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Network][![Project Page](https://img.shields.io/badge/Project-Page-green)](your_link)
-[![arXiv]([https://img.shields.io/badge/arXiv-2601.XXXXX-B31B1B.svg](https://arxiv.org/abs/2602.03591))](https://github.com/K1NSA/Test/tree/main)
+[![arXiv]([https://img.shields.io/badge/arXiv-2601.XXXXX-B31B1B.svg](https://arxiv.org/abs/2602.03591))]
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
